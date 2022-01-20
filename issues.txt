@@ -1,0 +1,19 @@
+Issue : solution
+
+-on a spot location to swap between overview and forecast you need to touch at the top of the scree : drag from screens 
+-app has two seperate arrows which can be confusing : change to compass like on website with the two arrows on the compass
+-arrows in general are confusing : add where north is (it has option to show angle)
+-color scheme is boring, just blue white and a bit of green : Use a better color scheme
+-text is small in areas : add setting to change (certain) text size
+-graphs don't look great : use better graphs
+-plain white : use themes
+-shows alot of information stright away: hide some clutter with progressive disclosure to show more information once clicked on the element.
+    https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4149f7df-312e-4a3b-b2ee-ace7510bfb32/mobile-app-design-image107.gif
+-Everything is one size: use visual weight to convey importance
+-not color blind friendly: add option in settings maybe with theme
+-doesn't show where you are: communicate current location better e.g : back arrow with spots once in a spots screens
+- : animations show navigation better
+-No loading animations : add animations when changing screens or loading information that is taking awhile
+-same as above : skelleton screen / show blank version of the screen while loading in the back
+- : Consider thumb zone
+- 
